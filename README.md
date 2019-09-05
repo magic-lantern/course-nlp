@@ -1,3 +1,13 @@
+# magic-lantern's notes:
+
+Need to review
+* http://course18.fast.ai/lessons/lesson11.html
+* https://medium.com/southpigalle/simple-relation-extraction-with-a-bi-lstm-model-part-1-682b670d5e11
+* https://medium.com/southpigalle/simple-relation-extraction-with-a-bi-lstm-model-part-2-52086246c66
+* https://towardsdatascience.com/deep-learning-for-specific-information-extraction-from-unstructured-texts-12c5b9dceada
+* https://docs.google.com/presentation/d/1fIhGikFPnb7G5kr58OvYC3GN4io7MznnM0aAgadvJfc/edit#slide=id.g5882add69e_1_8
+
+
 # A Code-First Intro to Natural Language Processing
 
 You can find out about the course in [this blog post](https://www.fast.ai/2019/07/08/fastai-nlp/) and all [lecture videos are available here](https://www.youtube.com/playlist?list=PLtmWHNX-gukKocXQOkQjuVxglSDYWsSh9).
